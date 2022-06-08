@@ -6,11 +6,16 @@ import javax.swing.JOptionPane;
 //Autora: Isabella Cunha
 //Exercicio 2
 
+<<<<<<< HEAD
 /*Faça um programa que receba três inteiros e diga qual deles é o maior.*/
+=======
+/*Faça um programa que entre com três números e coloque em ordem crescente.*/
+>>>>>>> e3ca61828a390dbdc52989176750003236f4b5ae
 
 public class Ex2 {
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 		int a,b,c, n;
 		
 		a = Integer.parseInt(JOptionPane.showInputDialog("Digite  o 1º numero:"));
@@ -37,4 +42,10 @@ public class Ex2 {
 	
 	
 
+=======
+		
+			
+}
+
+>>>>>>> e3ca61828a390dbdc52989176750003236f4b5ae
 }
